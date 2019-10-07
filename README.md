@@ -1,6 +1,6 @@
 # GRU for Timeseries Forcasting
 Multisteps univariate time series forecasting using Gated Recurrent Unit.The dataset used in this repo can be downloaded from
- [kaggle timeseries dataset](https://www.kaggle.com/shenba/time-series-datasets/download)
+ [kaggle timeseries dataset](https://www.kaggle.com/shenba/time-series-datasets/download). The purpose of this repo is to show the power of neural network for predicting future. Contrast with classical method in timeseries analysis neural network based method drastically reduce the need for hyperparmeter tweaking and prior knowledge about data
 
 # Result Example
 
